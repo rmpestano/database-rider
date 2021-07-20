@@ -175,7 +175,7 @@
                     <plugin>
                         <groupId>com.github.cukedoctor</groupId>
                         <artifactId>cukedoctor-maven-plugin</artifactId>
-                        <version>3.6.0</version>
+                        <version>3.7.0</version>
                         <configuration>
                             <outputFileName>documentation</outputFileName>
                             <!-- by default it resolves to 'latest' and is overriden by release profile -->
